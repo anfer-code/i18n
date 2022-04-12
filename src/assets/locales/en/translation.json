@@ -1,0 +1,6 @@
+{
+    "welcome_message": "Welcome to React, and react-i18next",
+    "app_title": "Title",
+    "language": "Language",
+    "days_since_release": "It's been {{number_of_days}} days since this video was released"
+}

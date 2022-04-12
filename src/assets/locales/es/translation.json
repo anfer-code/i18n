@@ -1,0 +1,6 @@
+{
+    "welcome_message": "Bienvenido a React y react-i18next",
+    "app_title": "Titulo",
+    "language": "Lenguaje",
+    "days_since_release": "han pasado {{number_of_days}} desde que el video se lanzó"
+}
